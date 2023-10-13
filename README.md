@@ -23,3 +23,7 @@ We tell SAPUI5 core that resources in the sap.ui.demo.walkthrough namespace are 
 > Method: `sap.ui.define`
 
 The sap.ui.define function in SAP UI5 is used to define modules, such as creating new library classes1. This is typically the outermost frame of a module, its entry point so to say2. The dependencies that are listed in the sap.ui.define call will be resolved before the factory function (the function given as argument to the sap.ui.define call) will
+
+---
+
+[![Vaibhav Mojidra - 1.jpeg](https://raw.githubusercontent.com/VaibhavMojidra/SAP-UI5---Demo-Bootstrap/master/screenshots/1.jpeg "Vaibhav Mojidra")](https://vaibhavmojidra.github.io/site/)
